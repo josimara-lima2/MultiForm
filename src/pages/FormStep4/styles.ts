@@ -20,7 +20,3 @@ hr{
 
 `
 
-export const Pessoal = styled.div`
-    font-size:25px;
-    
-`
